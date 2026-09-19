@@ -18,6 +18,6 @@ I'm a student at the University of Waterloo interested in Machine Learning, Data
 - [LinkedIn](https://linkedin.com/in/kairav-tupil)
 - [Instagram](https://www.instagram.com/kairav._t)
 
-![Kairav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KairavT&show_icons=true)
+![Kairav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KairavT&show_icons=true&cachebust=1)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KairavT&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KairavT&layout=compact&cachebust=1)
