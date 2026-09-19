@@ -10,9 +10,9 @@ I'm a student at the University of Waterloo interested in Machine Learning, Data
 - [guess-the-elo](https://github.com/kairavt/guess-the-elo): a model that predicts players' chess Elo ratings from their game data
 
 ## Featured projects
-- [Paper-RAG](https://github.com/kairavt/paper-rag): one-line description
-- [rust-inference](https://github.com/kairavt/rust-inference): one-line description
-- [Earshot](https://github.com/alexanderli07/earshot): one-line description
+- [Paper-RAG](https://github.com/kairavt/paper-rag): RAG project that pulls from famous ML Papers
+- [rust-inference](https://github.com/kairavt/rust-inference): Inference engine written from scratch in Rust
+- [Earshot](https://github.com/alexanderli07/earshot): Wearable sleeve to detect alerts for hard-of-hearing individuals
 
 ## Links
 - [LinkedIn](https://linkedin.com/in/kairav-tupil)
