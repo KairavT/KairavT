@@ -6,6 +6,10 @@ I'm a student at the University of Waterloo interested in Machine Learning, Data
 - Currently in my 2A term, double majoring in Applied Mathematics (Machine Learning) and Statistics
 - Aiming to work in ML research for my upcoming co-ops and my career
 
+## Experience
+- Currently doing ML research @ WAT.ai
+- AI Developer Co-op @ Compass Group during S26
+
 ## What I'm working on
 - [guess-the-elo](https://github.com/kairavt/guess-the-elo): a model that predicts players' chess Elo ratings from their game data
 - [InfraHacks](https://github.com/infrahacks2027): first-of-its-kind Infrastructure Hackathon
