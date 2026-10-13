@@ -13,6 +13,7 @@ I'm a student at the University of Waterloo interested in Machine Learning, Data
 ## What I'm working on
 - [guess-the-elo](https://github.com/kairavt/guess-the-elo): a model that predicts players' chess Elo ratings from their game data
 - [InfraHacks](https://github.com/infrahacks2027): first-of-its-kind Infrastructure Hackathon
+- [Linkedin Job Alerts](https://github.com/kairavt/linkedin-job-alerts): Emails you job alerts for specific jobs so you can apply early
 
 ## Featured projects
 - [Paper-RAG](https://github.com/kairavt/paper-rag): RAG project that pulls from famous ML Papers
