@@ -3,7 +3,7 @@
 I'm a student at the University of Waterloo interested in Machine Learning, Data Science, and Applied Mathematics. I am currently looking for co-ops for W27. You can email me at kairavtupil@gmail.com or kmtupil@uwaterloo.ca.
 
 ## About me
-- Currently in my 2A term, double majoring in Applied Mathematics (Machine Learning) and Statistics
+- Currently in my 2A term, double majoring in Applied Mathematics (Machine Learning Specialization) and Statistics
 - Aiming to work in ML research for my upcoming co-ops and my career
 
 ## Experience
